@@ -1,0 +1,7 @@
+:root {
+    --cor-de-fundo: rgb(238, 41, 41);
+}
+body {
+    background-color: var(--cor-de-fundo);
+    background: black;
+}
